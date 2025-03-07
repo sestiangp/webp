@@ -8,18 +8,8 @@ html,body
     margin-right: 30;
     padding: 0;
     overflow-x: hidden; 
-	background: #00;
-	text-color: #ff;
-}
-nav {
-position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  animation-name: naviga;
- animation-duration: 30s;
-}
-
-
+	background: #000000;
+	text-color: #ffffff;
 
 .sticky {
   position: -webkit-sticky;
