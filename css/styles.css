@@ -18,12 +18,7 @@ position: -webkit-sticky;
   animation-name: naviga;
  animation-duration: 30s;
 }
-@keyframes naviga{
-  0%   {background-color: rgba(245, 87, 87, 0.233);}
-  25%  {background-color: rgba(223, 223, 136, 0.322);}
-  50%  {background-color: rgba(115, 115, 238, 0.301);}
-  100% {background-color: rgba(142, 228, 142, 0.301);}
- }
+
 
 
 .sticky {
