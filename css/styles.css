@@ -14,7 +14,7 @@ html,body
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
   top: 0;
-  background-color: 0, 0, 0, 0.3;
+  background-color: transparent;
 color: black;
   padding: 0;
   font-size: 15px;
