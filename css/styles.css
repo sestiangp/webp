@@ -34,7 +34,7 @@ color: black;
   text-align: center;
   top: 100;
   position: fixed;
-  align: center;
+  justify-self: center;
   border-left: 10%;
             
 }
