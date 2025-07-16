@@ -33,7 +33,7 @@ color: black;
   padding: 0px;
   text-align: center;
   top: 100;
-  position: fixed;
+ display: flex;
   justify-self: center;
   border-left: 10%;
             
