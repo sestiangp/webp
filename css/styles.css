@@ -24,31 +24,19 @@ html, body {
     align-content: center;
     padding-right: 10px;
 }
-#centered-header {
+
+/* Style the header */
+.header {
     /* Make the header a flex container */
     display: flex;
     
-    /* Center the children horizontally */
+    /* Center the children (the iframe) horizontally */
     justify-content: center;
     
-    
-
-    
-    /* Ensure the header takes up the full viewport width and height */
-    width: 20%;
-    height: 20%;
-}
-/* Style the header */
-.header {
+    /* Add any other original styles you need */
     background-color: #FFFFFF;
     padding: 0px;
-    text-align: center;
-    
-    /* Removed the incorrect properties like top, justify-self, and border-left.
-       The parent (body) is now handling the centering. */
-    
-    /* You can add a max-width to prevent the header from stretching too wide */
-    max-width: 800px;
+    top: 100px; /* If this is for vertical positioning, make sure the parent has position: relative */
 }
 	
 .dropbtn {
