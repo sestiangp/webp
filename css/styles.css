@@ -24,7 +24,20 @@ html, body {
     align-content: center;
     padding-right: 10px;
 }
-
+#centered-header {
+    /* Make the header a flex container */
+    display: flex;
+    
+    /* Center the children horizontally */
+    justify-content: center;
+    
+    /* Center the children vertically */
+    align-items: center;
+    
+    /* Ensure the header takes up the full viewport width and height */
+    width: 20%;
+    height: 20%;
+}
 /* Style the header */
 .header {
     background-color: #FFFFFF;
