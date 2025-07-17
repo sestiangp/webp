@@ -31,8 +31,8 @@ html, body {
     /* Center the children horizontally */
     justify-content: center;
     
-    /* Center the children vertically */
-    align-items: center;
+    
+
     
     /* Ensure the header takes up the full viewport width and height */
     width: 20%;
