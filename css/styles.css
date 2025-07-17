@@ -4,11 +4,7 @@ html, body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-    
-    /* Use Flexbox to center the content within the body */
-    display: flex;
-    justify-content: center; /* Center horizontally */
-
+   
 }
 
 .sticky {
@@ -36,7 +32,7 @@ html, body {
     /* Add any other original styles you need */
     background-color: #FFFFFF;
     padding: 0px;
-    top: 100px; /* If this is for vertical positioning, make sure the parent has position: relative */
+    /* If this is for vertical positioning, make sure the parent has position: relative */
 }
 	
 .dropbtn {
